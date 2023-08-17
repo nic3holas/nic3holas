@@ -1,4 +1,4 @@
-Hi there! My name is Nicholas Murimi, and I am a skilled full-stack web developer with over 3 years of experience in the field. I have a strong background in PHP, Bootstrap, and AngularJS, and I pride myself on developing highly functional and user-friendly web applications.
+Hi there! My name is Nicholas Murimi, and I am a skilled full-stack web developer with over 3 years of experience in the field. I have a strong background in PHP, JavaScript,Django,React, node,Spring, Bootstrap, and AngularJS, and I pride myself on developing highly functional and user-friendly web applications.
 
 As a full-stack web developer, I have a deep understanding of both front-end and back-end technologies. My proficiency in PHP enables me to develop robust and scalable web applications with complex functionalities. Meanwhile, my expertise in Bootstrap and AngularJS allows me to create visually appealing user interfaces that are responsive and mobile-friendly.
 
